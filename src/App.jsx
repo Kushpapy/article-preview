@@ -155,7 +155,7 @@ function App() {
         </P>
         <AuthorContent>
           <AuthorBox>
-            <img src="public\avatar-michelle.jpg" alt="Picture of michelle" />
+            <img src="/avatar-michelle.jpg" alt="Picture of michelle" />
             <div>
               <h4> Michelle Appleton</h4>
               <span> 28 Jun 2020</span>
